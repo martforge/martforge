@@ -1,47 +1,21 @@
-# Hello, I'm Martforge 👋
+# Yo, I'm Martforge 👊
 
-Welcome to my GitHub profile! I'm a passionate developer who loves creating and learning new things. I'm currently focused on [mention your main focus area like web development, game development, etc.].
+Welcome to my GitHub. I'm always pushing forward, taking on new challenges, and working on projects that matter to me. Here's a quick look at what I'm about:
 
-## 🚀 Skills & Technologies
+## 🥷 What I Do
+- Taking on **Some small personal projects**.
+- Always learning and improving my skills.
+- No shortcuts, just hard work and progress.
 
-- 💻 **Languages**: Python, JavaScript, HTML, CSS, [Other Languages]
-- 🛠️ **Frameworks & Libraries**: React, Node.js, Flask, Django, [Other Frameworks]
-- 🌐 **Web**: HTML5, CSS3, Bootstrap, Tailwind CSS, [Other Web Technologies]
-- 📚 **Database**: MySQL, MongoDB, [Other Databases]
-- 📦 **Tools**: Git, GitHub, VSCode, Docker, [Other Tools]
-- 🧠 **Learning**: Machine Learning, Cloud Computing, [Other Topics]
+## 🔥 Projects
+- **Merchant's Journey**: [Just selling wares].
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martforge&show_icons=true&count_private=true)
 
-- **Machine Learning** with Python
-- **Cloud Computing** (AWS, GCP)
-- **Web3** technologies
-
-## 📈 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&count_private=true&hide_title=true)
-
-## 💬 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/[Your-LinkedIn-Profile])
-- [Twitter](https://twitter.com/[Your-Twitter-Handle])
-- [Personal Blog](https://[Your-Blog-URL].com)
-- [Portfolio](https://[Your-Portfolio-URL].com)
-
-## 📢 Some of My Projects
-
-- [Project 1](https://github.com/[Your-Username]/[Project-1-Repo]): Brief description of the project.
-- [Project 2](https://github.com/[Your-Username]/[Project-2-Repo]): Brief description of the project.
-- [Project 3](https://github.com/[Your-Username]/[Project-3-Repo]): Brief description of the project.
-
-## 🏆 GitHub Achievements
-
-![Achievements](https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-## 📫 How to Reach Me
-
-Feel free to open an issue, pull request, or contact me through the links above!
+## 🔗 Let’s Connect
+- [X](https://x.com/martforge)
 
 ---
 
-> "Learning is a never-ending journey." 🌱
+> "When you decided to go to the sea, it was your own decision. Whatever happens to you on the sea, it depends on what you’ve done! Don’t blame others!" — Roronoa Zoro
