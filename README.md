@@ -8,7 +8,47 @@ Welcome to my GitHub. I'm always pushing forward, taking on new challenges, and 
 - No shortcuts, just hard work and progress.
 
 ## 🔥 Projects
-- **Merchant's Journey**: [Just selling wares].
+
+## **Learning & Study**
+   educational projects, tutorials, and experiments.
+   - **Topics**: learning, study, tutorial, experiments, educational
+
+
+
+## **Personal Projects**
+   quick, smaller apps or personal projects that build for fun or learning.
+   - **Topics**: personal-projects, mini-apps, side-projects, beginner-projects
+     
+
+<!--
+## **Major Projects**
+   bigger, long-term projects with more features and complexity.
+   - **Topics**: major-projects, full-stack, complex-projects, feature-rich
+-->
+
+<!--
+## **Web Development**
+   Websites, dashboards, APIs, or any web-related development.
+   - **Topics**: web-development, frontend, backend, html, css, javascript, react, nodejs
+-->
+
+<!--
+## **Game Development**
+   create games or related tools.
+   - **Topics**: game-development, games, unity, unreal, game-design
+-->
+
+<!--
+## **Tools & Utilities**
+   Automation scripts, command-line tools, or utility programs.
+   - **Topics**: tools, utilities, cli, scripts, automation
+-->
+
+<!--
+## **AI & Machine Learning**
+   AI, deep learning, or machine learning projects.
+   - **Topics**: ai, machine-learning, deep-learning, tensor
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martforge&show_icons=true&count_private=true)
