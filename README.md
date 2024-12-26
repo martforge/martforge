@@ -10,7 +10,7 @@
   <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 </p>
 
-<p align="center" style="color: #00ff00; padding: 10px 0;">I’m a <b>Cybersecurity and Web Development</b> enthusiast who doesn’t settle for anything less than the best. With a relentless focus on <b>Python</b> and <b>Cybersecurity</b>, I’m always leveling up my skills and tackling challenges head-on. <br> I’m here to make things happen—no shortcuts, just raw determination and constant growth.</p>
+<p align="center" style="color: #00ff00; padding: 10px 0;">I’m a <b>Cybersecurity and Web Development</b> enthusiast who doesn’t settle for anything less than the best. With a relentless focus on <b>Python</b> and <b>Cybersecurity</b>, I’m always leveling up my skills and tackling challenges head-on. <br> I’m here to make things happen, no shortcuts, just raw determination, and constant growth.</p>
 
 - 📚 Currently learning:
   - Python
