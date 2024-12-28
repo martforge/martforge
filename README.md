@@ -50,16 +50,16 @@
 <h3 align="center" style="color: #00ff00;">Technologies & Tools</h3>
 
 - **Cybersecurity**  
-  - Ethical Hacking
-  - Penetration Testing
+<!--  - Ethical Hacking
+  - Penetration Testing -->
   - **Cryptography**
     - [**Caesar Cipher**](https://github.com/martforge/Caesar-Cipher): A simple encryption algorithm to demonstrate basic cryptography concepts.
     - [**Vigenère Cipher**](https://github.com/martforge/Vigenere-Cipher): A more advanced encryption algorithm based on a series of Caesar ciphers with a keyword.
-
+<!--
   - Network Security
   - Malware Analysis
   - Firewalls and Security Protocols
-
+-->
 ---
 
 <h3 align="center" style="color: #39FF14;">GitHub Stats</h3>
