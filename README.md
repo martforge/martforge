@@ -76,6 +76,11 @@
 
 ---
 
+<h3 align="center" style="color: #00ff00;">Zoro's Code</h3>
+<p align="center" style="font-style: italic; color: #39FF14; font-weight: bold;">"When you set sail, you made the choice. Whatever happens on the sea is on you! Don't go blaming others for your own mess!" - Roronoa Zoro</p>
+
+---
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=martforge&theme=matrix&column=7&margin-w=15&margin-h=15&no-frame=true" alt="martforge" />
 </a>
