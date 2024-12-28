@@ -47,9 +47,56 @@
 
 ---
 
-<h3 align="center" style="color: #00ff00;">Most Used Languages</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=martforge&show_icons=true&locale=en&layout=compact&theme=dark" alt="martforge" /></p>
+<h3 align="center" style="color: #00ff00;">Technologies & Tools</h3>
 
+- **Cybersecurity**  
+  - Ethical Hacking
+  - Penetration Testing
+  - **Cryptography**
+    - [**Caesar Cipher**](https://github.com/martforge/Caesar-Cipher): A simple encryption algorithm to demonstrate basic cryptography concepts.
+  - Network Security
+  - Malware Analysis
+  - Firewalls and Security Protocols
+
+<!-- 
+- **Web Development**  
+  - Frontend Development (HTML, CSS, JavaScript, React, Vue, Angular)
+  - Backend Development (Node.js, Django, Flask, Ruby on Rails)
+  - Full-Stack Development
+  - Web Frameworks
+  - Web APIs
+
+- **Software Development**  
+  - Object-Oriented Programming (OOP)
+  - Algorithms and Data Structures
+  - Design Patterns
+  - Version Control (Git, GitHub, GitLab)
+  - Testing and Debugging
+  - Continuous Integration/Continuous Deployment (CI/CD)
+  - Software Architecture
+
+- **Database Management**  
+  - Relational Databases (SQL, MySQL, PostgreSQL)
+  - NoSQL Databases (MongoDB, Cassandra)
+  - Database Design and Optimization
+  - Data Modeling
+  - Database Administration
+
+- **Operating Systems & Systems Programming**  
+  - OS Concepts (Memory Management, File Systems, Processes)
+  - Linux/Unix Programming
+  - Shell Scripting
+  - Networking and Socket Programming
+  - Embedded Systems
+
+- **Cloud Computing**  
+  - Cloud Platforms (AWS, Azure, Google Cloud)
+  - Serverless Architecture
+  - DevOps
+  - Containerization (Docker, Kubernetes)
+  - Cloud Security
+-->
+  
 ---
 
 <h3 align="center" style="color: #39FF14;">GitHub Stats</h3>
