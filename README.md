@@ -53,6 +53,7 @@
   - **Cryptography**
     - [**Caesar Cipher**](https://github.com/martforge/Caesar-Cipher): A simple encryption algorithm to demonstrate basic cryptography concepts.
     - [**Vigenère Cipher**](https://github.com/martforge/Vigenere-Cipher): A more advanced encryption algorithm based on a series of Caesar ciphers with a keyword.
+    - [**Luhn Algorithm**](https://github.com/martforge/Luhn-Algorithm): An algorithm to validate identification numbers, such as credit card numbers.
 <!--  
   - Ethical Hacking
   - Penetration Testing 
