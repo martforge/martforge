@@ -10,11 +10,6 @@
 ---
 
 <h3 align="center" style="color: #00ff00;">About Me</h3>
-<!--<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35" style="margin-right: 20px;">
-  <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
-</p> -->
-
 <p align="center" style="color: #00ff00; padding: 10px 0;">I’m a <b>Cybersecurity and Web Development</b> enthusiast who doesn’t settle for anything less than the best. With a relentless focus on <b>Python</b> and <b>Cybersecurity</b>, I’m always leveling up my skills and tackling challenges head-on. <br> I’m here to make things happen, no shortcuts, just raw determination, and constant growth.</p>
 
 - 📚 Currently learning:
@@ -47,23 +42,78 @@
 
 ---
 
-<h3 align="center" style="color: #00ff00;">Technologies & Tools</h3>
+<h3 align="center" style="color: #39FF14;">Projects</h3>
 
-- **Cybersecurity**  
-  - **Cryptography**
-    - [**Caesar Cipher**](https://github.com/martforge/Caesar-Cipher): A simple encryption algorithm to demonstrate basic cryptography concepts.
-    - [**Vigenère Cipher**](https://github.com/martforge/Vigenere-Cipher): A more advanced encryption algorithm based on a series of Caesar ciphers with a keyword.
-    - [**Luhn Algorithm**](https://github.com/martforge/Luhn-Algorithm): An algorithm to validate identification numbers, such as credit card numbers.
-<!--  
-  - Ethical Hacking
-  - Penetration Testing 
-  - Network Security
-  - Malware Analysis
-  - Firewalls and Security Protocols
--->
+### **Cybersecurity and Cryptography**
+- **[build-your-own-shell](https://github.com/martforge/build-your-own-shell)**  
+  Learn how to build your own shell, a foundational tool in system security.
+  
+- **[Caesar-Cipher](https://github.com/martforge/Caesar-Cipher)**  
+  A Python implementation of the Caesar Cipher for encoding and decoding text.
+
+- **[Vigenere-Cipher](https://github.com/martforge/Vigenere-Cipher)**  
+  Encodes and decodes text using the Vigenère Cipher.
+
+- **[Luhn-Algorithm](https://github.com/martforge/Luhn-Algorithm)**  
+  Validate identification numbers like credit card numbers using the Luhn Algorithm.
+
+### **Algorithms and Problem Solving**
+- **[Traveling-Merchant-RPG-DSA](https://github.com/martforge/Traveling-Merchant-RPG-DSA)**  
+  An RPG-inspired project to explore data structures and algorithms.
+
+- **[study-experimentation](https://github.com/martforge/study-experimentation)**  
+  Experiments in learning and applying algorithms.
+
+### **Educational and Learning Projects**
+- **[PY4E-Learn](https://github.com/martforge/PY4E-Learn)**  
+  Documenting progress in the Python for Everybody (PY4E) course.
+
+- **[intro-db-sql-study](https://github.com/martforge/intro-db-sql-study)**  
+  Exploring database concepts and SQL basics.
+
+- **[git-tutorial](https://github.com/martforge/git-tutorial)**  
+  Git learning project.
+
+- **[git-tutorial3](https://github.com/martforge/git-tutorial3)**  
+  Continuation of Git learning exercises.
+
+### **Utility Tools and Applications**
+- **[arithmetic-formatter](https://github.com/martforge/arithmetic-formatter)**  
+  A tool to format and evaluate arithmetic expressions.
+
+- **[Expense-Tracker](https://github.com/martforge/Expense-Tracker)**  
+  Monitor and manage daily expenses effectively.
+
+### **Game Development**
+- **[Python-RPG-Merchant](https://github.com/martforge/Python-RPG-Merchant)** (Private)  
+  An RPG adventure project featuring a traveling merchant.
+
+### **Experiments and Miscellaneous**
+- **[hello-world](https://github.com/martforge/hello-world)**  
+  A simple "Hello, World!" project.
+
+- **[experiment](https://github.com/martforge/experiment)**  
+  A repository for experimental code.
+
+- **[martforge](https://github.com/martforge/martforge)**  
+  Details pending.
+
+- **[new-project](https://github.com/martforge/new-project)**  
+  A placeholder repository.
+
+### **Future Exploration Areas (Placeholder)**
+- **Advanced Cybersecurity**  
+  Consider projects on penetration testing, vulnerability scanning, or malware analysis.
+
+- **Web Security**  
+  Develop secure login systems, or simulate web attacks like SQL injection and XSS.
+
+- **AI in Cybersecurity**  
+  Build a machine learning model for anomaly detection or spam filtering.
+
 ---
 
-<h3 align="center" style="color: #39FF14;">GitHub Stats</h3>
+<h3 align="center" style="color: #00ff00;">GitHub Stats</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=martforge&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14" alt="martforge" /></p>
 
 ---
