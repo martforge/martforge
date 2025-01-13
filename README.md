@@ -9,6 +9,7 @@
 
 ---
 
+
 <h3 align="center" style="color: #00ff00;">About Me</h3>
 <p align="center" style="color: #00ff00; padding: 10px 0;">I’m a <b>Cybersecurity and Software Development</b> enthusiast who doesn’t settle for anything less than the best. With a relentless focus on <b>Python</b> and <b>Cybersecurity</b>, I’m always leveling up my skills and tackling challenges head-on. <br> I’m here to make things happen, no shortcuts, just raw determination, and constant growth.</p>
 
